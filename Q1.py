@@ -7,6 +7,7 @@
 # Output:
 # The sorted array, arranged in increasing order of 0s, 1s, and 2s.
 # Example: [0, 0, 0, 1, 1, 1, 2, 2]
+# solution:
 
 def dutch_alg(arr):
     start=0
@@ -27,4 +28,5 @@ def dutch_alg(arr):
 
 numbers=[0, 1, 2, 1, 0, 2, 1, 0]
 sorted_arr=dutch_alg(numbers)
+
 print(sorted_arr)
