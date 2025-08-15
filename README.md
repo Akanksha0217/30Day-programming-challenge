@@ -7,7 +7,7 @@ I’m committing to improve my coding skills every day with the help of **Wisdom
 
 ## 📅 Challenge Details
 
-- **Start Date:** DD/MM/YYYY  
+- **Start Date:** 15/08/2025  
 - **Duration:** 30 Days  
 - **Goal:** Practice & learn programming every day, focusing on problem-solving and project building.  
 - **Language(s):** Python, JavaScript, C++, etc.  
@@ -25,10 +25,8 @@ I’m committing to improve my coding skills every day with the help of **Wisdom
 
 ## 🏆 Goals
 - Strengthen my **logic & problem-solving** skills.
-- Build at least **2–3 mini projects**.
 - Understand **core programming concepts**.
 - Prepare for **interviews & competitions**.
 
 ---
 
-## 📂 Repository Structure
