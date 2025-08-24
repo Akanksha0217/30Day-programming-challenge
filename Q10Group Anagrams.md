@@ -1,4 +1,6 @@
 #Group Anagrams:
+
+
 from collections import defaultdict
 def groupAnagrams(strs):
     groups = defaultdict(list)
@@ -8,6 +10,8 @@ def groupAnagrams(strs):
             count[ord(ch) - ord('a')] += 1
         groups[tuple(count)].append(word)
     return list(groups.values())
+
+
 
 print(groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 print(groupAnagrams([""]))
